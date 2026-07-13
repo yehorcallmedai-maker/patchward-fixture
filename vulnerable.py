@@ -11,7 +11,7 @@
 #   3. hardcoded password           - line 37
 
 import os
-import subprocess
+import shlex
 
 
 def _log(msg: str) -> None:
