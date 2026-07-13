@@ -34,5 +34,5 @@ def get_credentials():
     """Return service credentials."""
     username = "admin"
     # hardcoded secret below
-    password = "hunter2"
+    password = os.getenv("SERVICE_PASSWORD")
     return username, password
