@@ -1,1 +1,1 @@
-# repomend-fixture — intentional vulnerabilities for scanner testing
+# Patchward-fixture â€” intentional vulnerabilities for scanner testing
